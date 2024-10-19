@@ -1,0 +1,10 @@
+个人:
+  label: 个人
+  permalink: /个人
+  description: 个人相关的文章
+
+Go:
+  label: Go
+  permalink: /go
+  description: 与 Go 语言相关的文章
+
