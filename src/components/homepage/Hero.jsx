@@ -54,7 +54,7 @@ export const Hero = () => {
                 className={clsx("hero__title")}
                 style={isSmallScreen ? styles.titleSmall : styles.title}
               >
-                Hi. I'm <span style={styles.highlighted}>Tong Que</span>,
+                Hi. I'm <span style={styles.highlighted}>Harry</span>,
                 <br />
                 Full-stack Cloud Developer.
               </h1>
