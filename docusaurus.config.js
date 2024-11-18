@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: "Email me",
-                href: "mailto:tongque00@gamil.com",
+                href: "mailto:hl396276621@gamil.com",
               },
               // {
               //   label: "WeChat",
@@ -129,13 +129,13 @@ const config = {
               //   to: "pathname:///blog/atom.xml",
               // },
               {
-                label: "tongque",
-                to: "https://tongque0.github.io/",
+                label: "Harry",
+                to: "https://Harry969.github.io/",
               },
             ],
           },
         ],
-        copyright: `Copyright © 2022-${new Date().getFullYear()} Tong Que.`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} Harry.`,
       },
       prism: {
         theme: prismThemes.github,
