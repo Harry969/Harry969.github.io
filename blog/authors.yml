@@ -1,9 +1,5 @@
-Harry969:
-  name: 哈里
-  title: Just for gopher
-  url: https://github.com/Harry969
+Harry:
+  name: Harry
+  title: Author
+  url: https://harry969.github.io
   image_url: https://github.com/Harry969.png
-  page: true
-  socials:
-    github: Harry969
-    juejin: https://juejin.cn/user/3556269424903816
