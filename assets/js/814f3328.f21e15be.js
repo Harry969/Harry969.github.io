@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkHarry_github_io=self.webpackChunkHarry_github_io||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog","permalink":"/blog/2024/start","unlisted":false,"date":"2024-11-19T14:55:16.000Z"}]}')}}]);
